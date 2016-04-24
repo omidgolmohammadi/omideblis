@@ -250,6 +250,7 @@ function create_config( )
     "rules",
     "settings",
     "spam",
+    "support",
     "version",
     "translate",
     },
