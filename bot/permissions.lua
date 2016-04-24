@@ -24,7 +24,7 @@ local sudos = {
  	"export_gban"
 }
 
-local mods = {
+ local mods = 
         "whois",
 	"kick",
 	"add",
