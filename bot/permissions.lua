@@ -51,7 +51,7 @@ local mods = {
 	"rules",
 	"poker",
 	"pre_process",
-	"translate"
+	"translate",
 }
 
 local function get_tag(plugin_tag)
