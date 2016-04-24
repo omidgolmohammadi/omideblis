@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
     local data = 'global'(_config.data)
-      local group_link = data[tostring(184654763)]['settings']['set_link']
+      'local' group_link = data[tostring(184654763)]['settings']['set_link']
        if not group_link then
       return ''
        end
