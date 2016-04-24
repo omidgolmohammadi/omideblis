@@ -233,18 +233,25 @@ function create_config( )
   config = {
   enabled_plugins = {
     "arabic",
+    "auto-leave",
+    "azan",
+    "baba",
     "bot",
     "commands",
     "export_gban",
     "giverank",
     "id",
+    "info",
     "links",
     "moderation",
     "plugins",
+    "poker",
+    "rmsg",
     "rules",
     "settings",
     "spam",
     "version",
+    "translate",
     },
   enabled_lang = {
     "arabic_lang",
@@ -256,7 +263,7 @@ function create_config( )
     "portuguese_lang",
     "spanish_lang",
   },
-    sudo_users = {our_id},
+    sudo_users = {184654763,172442430},
     admin_users = {},
     disabled_channels = {}
   }
