@@ -244,6 +244,8 @@ function create_config( )
     "links",
     "moderation",
     "plugins",
+    "English_lock",
+    "cpu",
     "poker",
     "rmsg",
     "rules",
