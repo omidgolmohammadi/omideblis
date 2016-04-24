@@ -233,7 +233,6 @@ function create_config( )
   config = {
   enabled_plugins = {
     "arabic",
-    "auto-leave",
     "azan",
     "baba",
     "bot",
@@ -251,7 +250,6 @@ function create_config( )
     "salam",
     "settings",
     "spam",
-    "version",
     "translate",
     },
   enabled_lang = {
