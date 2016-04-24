@@ -250,6 +250,7 @@ function create_config( )
     "rules",
     "salam",
     "settings",
+    "fun",
     "spam",
     "translate",
     },
