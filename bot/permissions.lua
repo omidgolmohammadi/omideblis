@@ -47,7 +47,6 @@ local sudos = {
 	"no_flood_ban",
 	"muteall",
 	"rmsg",
-	"support",
 	"salam",
 	"rules",
 	"poker",
