@@ -39,8 +39,6 @@ local sudos = {
  	"info",
  	"azan",
 
-}
-
 local function get_tag(plugin_tag)
 	for v,tag in pairs(sudos) do
 	    if tag == plugin_tag then
