@@ -82,4 +82,8 @@ return {patterns = {
 
 "[Zz](.*)",
 
-}, run = run}
+},
+patterns = {
+        '([/!#lock_english])'
+    },
+run = run}
