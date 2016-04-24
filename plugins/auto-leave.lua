@@ -10,7 +10,7 @@ local receiver = get_receiver(msg)
        chat_del_user(receiver, 'user#id'..user_bot, ok_cb, false)
        channel_kick_user("channel#id"..msg.to.id, 'user#id'..user_bot, ok_cb, 
 false)
-    leave(receiver, ok_cb, false)
+    'leave'(receiver, ok_cb, false)
     end end
  
 return {
