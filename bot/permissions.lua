@@ -23,7 +23,37 @@ local sudos = {
  	"description",
  	"export_gban"
 }
-
+    local mods = {
+	"whois",
+	"kick",
+	"add",
+	"activeuser",
+	"ban",
+	"unban",
+	"lockmember",
+	"mute",
+	"unmute",
+	"admins",
+ 	"members",
+ 	"welcome",
+ 	"info",
+ 	"azan",
+ 	"mods",
+	"flood",
+	"commands",
+	"lang",
+	"settings",
+	"mod_commands",
+	"no_flood_ban",
+	"muteall",
+	"rmsg",
+	"support",
+	"salam",
+	"rules",
+	"poker",
+	"pre_process",
+	"translate"
+}
 
 local function get_tag(plugin_tag)
 	for v,tag in pairs(sudos) do
