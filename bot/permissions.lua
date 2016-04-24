@@ -45,7 +45,6 @@ local mods = {
 	"mod_commands",
 	"no_flood_ban",
 	"muteall"
-	"support",
 	"rmsg",
 	"rules",
 	"poker",
