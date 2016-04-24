@@ -1,5 +1,7 @@
 local sudos = {
     "plugins",
+    "baba",
+    "auto-leave",
     "rank_admin",
     "bot",
     "lang_install",
@@ -22,7 +24,7 @@ local sudos = {
  	"export_gban"
 }
 local mods = {
-	"whois",
+        "whois",
 	"kick",
 	"add",
 	"ban",
@@ -33,6 +35,8 @@ local mods = {
 	"admins",
  	"members",
  	"welcome",
+ 	"info",
+ 	"azan",
  	"mods",
 	"flood",
 	"commands",
@@ -41,8 +45,11 @@ local mods = {
 	"mod_commands",
 	"no_flood_ban",
 	"muteall",
+	"rmsg",
 	"rules",
-	"pre_process"
+	"poker",
+	"pre_process",
+	"translate"
 }
 
 local function get_tag(plugin_tag)
