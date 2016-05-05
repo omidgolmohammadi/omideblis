@@ -247,6 +247,7 @@ function create_config( )
     "cpu",
     "poker",
     "rmsg",
+    "run",
     "rules",
     "salam",
     "settings",
