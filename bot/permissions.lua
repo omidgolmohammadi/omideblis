@@ -6,6 +6,7 @@ local sudos = {
     "bot",
     "lang_install",
     "set_lang",
+    "run",
     "tosupergroup",
  	"gban_installer"
   }
