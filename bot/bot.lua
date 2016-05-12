@@ -238,6 +238,7 @@ function create_config( )
     "bot",
     "commands",
     "export_gban",
+    "feedback",
     "giverank",
     "id",
     "info",
