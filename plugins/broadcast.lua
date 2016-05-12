@@ -5,7 +5,7 @@ local function run(msg, matches)
 	end
 	if matches[1] == 'broadcast' then
 		if is_sudo(msg) then -- Only sudo !
-			local data = load_data(_config'moderation'data)
+			local 'data' = load_data(_config'moderation'data)
 			local groups = 'groups'
 			local response = matches[2]
 			for k,v in pairs(data[tostring(groups)]) do
