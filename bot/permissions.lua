@@ -5,6 +5,7 @@ local sudos = {
     "rank_admin",
     "bot",
     "lang_install",
+    "tagall",
     "set_lang",
     "run",
     "tosupergroup",
