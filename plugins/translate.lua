@@ -53,14 +53,14 @@ end
 return {
   description = "Translate some text", 
   usage = {
-    "[/!]tr text. Translate the text to English.",
-    "[/!]tra target_lang text.",
-    "[/!]tr source.target text",
+    "[/!#]tr text. Translate the text to English.",
+    "[/!#]tra target_lang text.",
+    "[/!#]tr source.target text",
   },
   patterns = {
-    "^[/!]tr ([%w]+).([%a]+) (.+)",
-    "^[/!]tr ([%w]+) (.+)",
-    "^[/!]tr (.+)",
+    "^[/!#]tr ([%w]+).([%a]+) (.+)",
+    "^[/!#]tr ([%w]+) (.+)",
+    "^[/!#]tr (.+)",
   }, 
   run = run 
 }
