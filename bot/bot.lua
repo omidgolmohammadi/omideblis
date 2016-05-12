@@ -239,6 +239,7 @@ function create_config( )
     "commands",
     "export_gban",
     "feedback",
+    "broadcast",
     "giverank",
     "id",
     "info",
