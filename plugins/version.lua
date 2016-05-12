@@ -8,7 +8,7 @@
 do
 
 function run(msg, matches)
-  return 'anti spam robott V1\n                                                                        💥created by omid programer and khan💥\n\n 🏅 sudo users 🏅                                                                                                                                                       @omid_programer                                           @HBKHAN                                                                           ️\n ➡️ our chanal: @H_Ghost_Life⬅                                                       ️〰〰〰〰〰〰〰〰〰〰〰'
+  return 'anti spam robott V1\n                                                                                        💥created by omid programer and khan💥\n\n 🏅 sudo users 🏅                                                                                                                                                       @omid_programer                                           @HBKHAN                                                                           ️\n ➡️ our chanal: @H_Ghost_Life⬅                                                       ️〰〰〰〰〰〰〰〰〰〰〰'
   
 end
 
