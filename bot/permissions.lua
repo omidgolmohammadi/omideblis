@@ -1,6 +1,7 @@
 local sudos = {
     "plugins",
     "baba",
+    "broadcast",
     "auto-leave",
     "rank_admin",
     "bot",
