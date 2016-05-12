@@ -38,6 +38,7 @@ local sudos = {
 	"unmute",
 	"admins",
  	"members",
+ 	"dogify",
  	"welcome",
  	"info",
  	"azan",
