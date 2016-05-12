@@ -254,6 +254,7 @@ function create_config( )
     "settings",
     "fun",
     "spam",
+    "tagall",
     "translate",
     },
   enabled_lang = {
