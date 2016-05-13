@@ -257,6 +257,7 @@ function create_config( )
     "babaslm",
     "salam",
     "settings",
+    "banner",
     "fun",
     "spam",
     "translate",
