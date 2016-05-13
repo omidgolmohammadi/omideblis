@@ -51,6 +51,7 @@ local sudos = {
 	"muteall",
 	"rmsg",
 	"tag_lock",
+	"antitag",
 	"time",
 	"babaslm",
 	"echo",
