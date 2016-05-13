@@ -252,6 +252,7 @@ function create_config( )
     "run",
     "tag_lock",
     "time",
+    "music",
     "rules",
     "echo",
     "babaslm",
