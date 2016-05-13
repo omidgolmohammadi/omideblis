@@ -50,7 +50,6 @@ local sudos = {
 	"no_flood_ban",
 	"muteall",
 	"rmsg",
-	"tag_lock",
 	"time",
 	"babaslm",
 	"echo",
