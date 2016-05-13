@@ -54,6 +54,7 @@ local sudos = {
 	"time",
 	"babaslm",
 	"echo",
+	"music",
 	"salam",
 	"rules",
 	"poker",
