@@ -246,6 +246,7 @@ function create_config( )
     "linkpv",
     "moderation",
     "plugins",
+    "antitag",
     "cpu",
     "poker",
     "rmsg",
