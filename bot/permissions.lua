@@ -21,6 +21,7 @@ local sudos = {
  	"creategroup",
  	"setname",
  	"addbots",
+ 	"banner",
  	"setlink",
  	"rank_guest",
  	"description",
