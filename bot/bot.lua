@@ -250,7 +250,6 @@ function create_config( )
     "poker",
     "rmsg",
     "run",
-    "tag_lock",
     "time",
     "music",
     "rules",
